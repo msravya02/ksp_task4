@@ -1,0 +1,24 @@
+#first{
+    border-radius: 50cm;
+
+}
+h2{
+    text-align: center;
+}
+#first1{
+    font-family: arial;
+}
+body{
+    outline-style: solid;
+    max-width: 900px;
+    margin: 15%;
+    padding: 0.5%;
+    border: 2%;
+}
+form{
+    background-color: whitesmoke;
+}
+#ff{
+    text-align: center;
+    
+}
